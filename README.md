@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yogendra Bhange</h1>
+<h1 align="center">Hi 👋, I'm Soundarya Gawande</h1>
 <h3 align="center">An IT student building real-world projects with code.</h3>
 
 <p align="center">
@@ -236,10 +236,10 @@ _Earning milestones as I contribute and grow with 💻 & ❤
 
 ### 📬 Connect With Me
 
-- 📧 Email: [yogendrabhange@gmail.com](mailto:yogendrabhange@gmail.com)  
-- 🌐 Portfolio: [yyogendra-portfolio.netlify.app](https://yyogendra-portfolio.netlify.app/)  
-- 🔗 GitHub: [yogendra-27-bhange](https://github.com/yogendra-27-bhange)  
-- 💼 LinkedIn: [Yogendra Bhange](https://www.linkedin.com/in/yogendra-bhange)
+- 📧 Email: [soundaryagawande12@gmail.com](soundaryagawande12@gmail.com)  
+- 🌐 Portfolio: [https://ssoundarya-portfolio.netlify.app/](https://ssoundarya-portfolio.netlify.app/)  
+- 🔗 GitHub: 
+- 💼 LinkedIn: 
 
 ---
 
