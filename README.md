@@ -12,25 +12,22 @@
 </p>
 
 ---
-
-## 🏆 GitHub Special Achievements  
+## 🏆 My GitHub Achievements (2025)
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100"/><br/>
-        <b>Pair Extraordinaire</b>
-      </td>
-      <td align="center" width="150">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="100"/><br/>
-        <b>Galaxy Brain</b>
-      </td>
-    </tr>
-  </table>
-</p>
+  <!-- Quickdraw -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw" title="Quickdraw" />
+  <!-- YOLO -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO" title="YOLO" />
+  <!-- Pair Extraordinaire -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire Default" title="Pair Extraordinaire Default" />
+   <!-- Pull Shark -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark Default" title="Pull Shark Default" />
+  <!-- Galaxy Brain -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="90" alt="Galaxy Brain Default" title="Galaxy Brain Default" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="90" alt="Galaxy Brain Bronze" title="Galaxy Brain Bronze" />
 
-<p align="left"><i>🚀 My GitHub Badge Collection 🚀</i></p>
+  </p>
 
 ---
 
